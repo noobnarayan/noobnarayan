@@ -17,4 +17,3 @@ I'm a passionate full-stack developer with a knack for building dynamic and resp
 
 ![](https://github-readme-stats.vercel.app/api?username=noobnarayan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=noobnarayan&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?noobnarayan=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
