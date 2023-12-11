@@ -14,7 +14,6 @@ I'm a passionate full-stack developer with a knack for building dynamic and resp
 - Email: workmail.narayan@gmail.com
 
 📈 **My GitHub Stats:**
-![](https://komarev.com/ghpvc/?username=noobnarayan&style=flat-square)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noobnarayan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=noobnarayan&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
