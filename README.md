@@ -9,7 +9,7 @@ I'm a passionate full-stack developer with a knack for building dynamic and resp
 - A rich history of blogging, sharing insights and knowledge with a wider audience.
 
 ### 📫 Let's connect:
-- Portfolio: https://noobnarayan.github.io/
+- Portfolio: https://noobnarayan.in/
 - Linkedin: https://www.linkedin.com/in/noobnarayan/
 - Email: workmail.narayan@gmail.com
 
